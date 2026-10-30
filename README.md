@@ -1,69 +1,69 @@
 # Moglog
 
 <p align="center">
-  <img src="Logo.png" alt="Moglog Logo" width="130" />
+  <img src="Logo2.png" alt="Moglog Logo" width="140" />
 </p>
 
 <p align="center">
-  <strong>A clean, private, and modern TV show tracker for Android.</strong>
+  <strong>A clean, private, and modern TV show tracking application for Android.</strong>
 </p>
 
 <p align="center">
   <a href="https://github.com/tshivaneshk/Moglog-Releases/releases/latest">
-    <img src="https://img.shields.io/github/v/release/tshivaneshk/Moglog-Releases?style=for-the-badge&color=2ECC71&label=Download%20APK" alt="Download Latest Release" />
+    <img src="https://img.shields.io/github/v/release/tshivaneshk/Moglog-Releases?style=flat-square&color=2ECC71&label=Download%20APK" alt="Download Latest Release" />
   </a>
-  <img src="https://img.shields.io/badge/Platform-Android%208.0+-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Platform" />
-  <img src="https://img.shields.io/badge/Status-Stable-blue?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Platform-Android%208.0+-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Platform" />
+  <img src="https://img.shields.io/badge/Status-Stable-blue?style=flat-square" alt="Status" />
 </p>
 
 ---
 
-## 📥 Download & Installation
+## Download & Installation
 
-1. Go to the **[Latest Release](https://github.com/tshivaneshk/Moglog-Releases/releases/latest)** page.
-2. Under the **Assets** dropdown, download **`Moglog-v3.0.0.apk`**.
+1. Navigate to the **[Latest Release](https://github.com/tshivaneshk/Moglog-Releases/releases/latest)** page.
+2. Under the **Assets** section, download **`Moglog-v3.0.0.apk`**.
 3. Open the downloaded file on your Android device to install.
-   *(If prompted by Android, grant permission to "Install unknown apps" for your browser or file manager).*
+   *(If prompted by Android security, grant permission to "Install unknown apps" for your browser or file manager).*
 
 ---
 
-## ✨ Features at a Glance
+## Features
 
-* 📱 **Interactive Glance Home Widget**: Log your episodes right from your home screen with quick `+1 EP` / `-1 EP` buttons and an 8-microsegment continuous progress bar.
-* 🗂️ **Custom Collection Shelves**: Organize your series into custom categories (*Comfort Shows*, *Weekend Binge*, etc.) with quick long-press management.
-* 🌟 **Top 4 All-Time Favorites**: Spotlight your favorite series on your personal profile pass.
-* 📊 **Moglog Wrapped & Binge Calculator**: View your binge statistics, episode air-date radar, and remaining marathon time calculations.
-* 👥 **Watch Circle**: Connect with friends using private invite codes to compare taste compatibility and follow live co-watch progress.
-* 🔒 **Offline-First & Encrypted**: Encrypted local database storage, customizable show privacy controls, and optional Google cloud sync.
-
----
-
-## 🔑 Getting Your TMDB API Key (2-Minute Setup)
-
-Moglog is 100% free, private, and ad-free. It connects to The Movie Database (TMDB) to fetch accurate show metadata, posters, and air dates. To use Moglog, simply provide your own free TMDB API key:
-
-1. **Sign Up / Log In**: Visit [themoviedb.org](https://www.themoviedb.org/) and create a free account (or log in).
-2. **Navigate to API Settings**: Click on your profile icon in the top right $\rightarrow$ **Settings** $\rightarrow$ select **API** from the left sidebar.
-3. **Generate an API Key**: Click **Create** $\rightarrow$ choose **Developer** $\rightarrow$ accept the terms and fill in standard app details *(e.g., Application Name: `Moglog`, Type: `Personal`)*.
-4. **Copy Key**: Copy your **API Read Access Token** or **API Key (v3)**.
-5. **Paste in Moglog**: Open Moglog, paste your key into the setup prompt, and tap **Save**.
+* **Interactive Glance Home Widget**: Update episode watch counts directly from your home screen with quick increment/decrement controls and a continuous progress indicator.
+* **Custom Collection Shelves**: Categorize titles into custom collections (*Comfort Shows*, *Weekend Binge*, etc.) with long-press management.
+* **Top 4 All-Time Favorites**: Highlight your four favorite series on your personal profile pass.
+* **Moglog Wrapped & Binge Analytics**: Review comprehensive watch statistics, episode air-date schedules, and estimated completion times.
+* **Watch Circle & Social Sync**: Connect with friends through private invite codes to compare taste compatibility and view live watch progress.
+* **Offline-First Security**: Local database encryption via SQLCipher, customizable show privacy controls, and optional Google cloud backup.
 
 ---
 
-## 💬 Feedback & Community
+## TMDB API Key Setup
 
-* **Found a bug?** Please submit a detailed report via [GitHub Issues](https://github.com/tshivaneshk/Moglog-Releases/issues).
-* **Have an idea or question?** Join the discussion and share suggestions in [GitHub Discussions](https://github.com/tshivaneshk/Moglog-Releases/discussions).
+Moglog is free, private, and ad-free. It connects directly to The Movie Database (TMDB) to retrieve verified show metadata, artwork, and broadcast schedules. To use the application, provide your free personal TMDB API key:
+
+1. **Sign Up / Log In**: Visit [themoviedb.org](https://www.themoviedb.org/) and create a free account.
+2. **Access API Settings**: Click your profile icon in the upper-right corner $\rightarrow$ **Settings** $\rightarrow$ select **API** from the left navigation panel.
+3. **Generate Key**: Click **Create** $\rightarrow$ select **Developer** $\rightarrow$ accept the terms and provide basic application information *(e.g., Application Name: `Moglog`, Type: `Personal`)*.
+4. **Copy Credentials**: Copy your **API Read Access Token** or **API Key (v3)**.
+5. **Configure Moglog**: Open the app, paste the key when prompted, and select **Save**.
 
 ---
 
-## ⚖️ Disclaimer & Attribution
+## Community & Support
+
+* **Bug Reports**: To report an issue or unexpected behavior, open an issue via [GitHub Issues](https://github.com/tshivaneshk/Moglog-Releases/issues).
+* **Feedback & Feature Requests**: To suggest enhancements or discuss new capabilities, visit [GitHub Discussions](https://github.com/tshivaneshk/Moglog-Releases/discussions).
+
+---
+
+## Legal & Attributions
 
 * This product uses the TMDB API but is not endorsed or certified by TMDB.
-* All TV series posters, images, and metadata are provided by [The Movie Database (TMDB)](https://www.themoviedb.org/).
+* All show metadata, posters, and cast details are provided courtesy of [The Movie Database (TMDB)](https://www.themoviedb.org/).
 
 ---
 
 <p align="center">
-  Crafted with care by <strong>SKECH</strong> • Copyright © 2026 Shivanesh K. All rights reserved.
+  Crafted by <strong>SKECH</strong> • Copyright © 2026 Shivanesh K. All rights reserved.
 </p>
