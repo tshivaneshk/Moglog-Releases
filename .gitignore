@@ -1,0 +1,20 @@
+# Compiled binary packages (releases are uploaded via GitHub Releases, not git commit)
+*.apk
+*.aab
+
+# Keys and credentials
+*.jks
+*.keystore
+*.p8
+*.p12
+*.key
+*.pem
+.env*
+google-services.json
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
