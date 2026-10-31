@@ -65,5 +65,5 @@ Moglog is free, private, and ad-free. It connects directly to The Movie Database
 ---
 
 <p align="center">
-  Crafted by <strong>SKECH</strong> • Copyright © 2026 Shivanesh K. All rights reserved.
+  Crafted by <strong>SKECH</strong> • Copyright © 2026 T Shivanesh Kumar. All rights reserved.
 </p>
