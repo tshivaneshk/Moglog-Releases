@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Moglog/Moglog-Releases/releases/latest">
-    <img src="https://img.shields.io/github/v/release/Moglog/Moglog-Releases?style=flat-square&color=2ECC71&label=Download%20APK" alt="Download Latest Release" />
+  <a href="https://github.com/tshivaneshk/Moglog-Releases/releases/latest">
+    <img src="https://img.shields.io/github/v/release/tshivaneshk/Moglog-Releases?style=flat-square&color=2ECC71&label=Download%20APK" alt="Download Latest Release" />
   </a>
   <img src="https://img.shields.io/badge/Platform-Android%208.0+-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Platform" />
   <img src="https://img.shields.io/badge/Status-Stable-blue?style=flat-square" alt="Status" />
@@ -20,7 +20,7 @@
 
 ## Download & Installation
 
-1. Navigate to the **[Latest Release](https://github.com/Moglog/Moglog-Releases/releases/latest)** page.
+1. Navigate to the **[Latest Release](https://github.com/tshivaneshk/Moglog-Releases/releases/latest)** page.
 2. Under the **Assets** section, download **`Moglog-v3.0.0.apk`**.
 3. Open the downloaded file on your Android device to install.
    *(If prompted by Android security, grant permission to "Install unknown apps" for your browser or file manager).*
@@ -52,8 +52,8 @@ Moglog is free, private, and ad-free. It connects directly to The Movie Database
 
 ## Community & Support
 
-* **Bug Reports**: To report an issue or unexpected behavior, open an issue via [GitHub Issues](https://github.com/Moglog/Moglog-Releases/issues).
-* **Feedback & Feature Requests**: To suggest enhancements or discuss new capabilities, visit [GitHub Discussions](https://github.com/Moglog/Moglog-Releases/discussions).
+* **Bug Reports**: To report an issue or unexpected behavior, open an issue via [GitHub Issues](https://github.com/tshivaneshk/Moglog-Releases/issues).
+* **Feedback & Feature Requests**: To suggest enhancements or discuss new capabilities, visit [GitHub Discussions](https://github.com/tshivaneshk/Moglog-Releases/discussions).
 
 ---
 
