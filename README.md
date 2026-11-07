@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Android%208.0+-3DDC84?style=flat-square&amp;logo=android&amp;logoColor=white" alt="Platform: Android" />&nbsp;
   <img src="https://img.shields.io/badge/Status-Stable-blue?style=flat-square" alt="Status: Stable" />&nbsp;
-  <a href="https://github.com/tshivaneshk/Moglog-Releases/releases/latest"><img src="https://img.shields.io/github/v/release/tshivaneshk/Moglog-Releases?style=flat-square&amp;color=2ECC71&amp;label=Download%20APK" alt="Download APK" /></a>
+  <a href="https://moglog-instructions.vercel.app/download"><img src="https://img.shields.io/github/v/release/tshivaneshk/Moglog-Releases?style=flat-square&amp;color=2ECC71&amp;label=Download%20APK" alt="Download APK" /></a>
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 ## Download & Installation
 
 1. Navigate to the **[Latest Release](https://github.com/tshivaneshk/Moglog-Releases/releases/latest)** page.
-2. Under the **Assets** section, download **`Moglog-v3.0.7.apk`**.
+2. Under the **Assets** section (or via **[Direct Download](https://moglog-instructions.vercel.app/download)**), download **[`Moglog-v3.0.7.apk`](https://moglog-instructions.vercel.app/download)**.
 3. Open the downloaded file on your Android device to install.
    *(If prompted by Android security, grant permission to "Install unknown apps" for your browser or file manager).*
 
