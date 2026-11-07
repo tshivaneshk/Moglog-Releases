@@ -23,7 +23,7 @@
 ## Download & Installation
 
 1. Navigate to the **[Latest Release](https://github.com/tshivaneshk/Moglog-Releases/releases/latest)** page.
-2. Under the **Assets** section, download **`Moglog-v3.0.7.apk`**.
+2. Under the **Assets** section, download **`Moglog-v3.0.71.apk`**.
 3. Open the downloaded file on your Android device to install.
    *(If prompted by Android security, grant permission to "Install unknown apps" for your browser or file manager).*
 
