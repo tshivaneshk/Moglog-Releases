@@ -9,17 +9,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/tshivaneshk/Moglog-Releases/releases/latest">
-    <img src="https://img.shields.io/github/v/release/tshivaneshk/Moglog-Releases?style=flat-square&color=2ECC71&label=Download%20APK" alt="Download Latest Release" />
-  </a>
-  <a href="https://github.com/tshivaneshk/Moglog-Releases/releases">
-    <img src="https://img.shields.io/github/downloads/tshivaneshk/Moglog-Releases/total?style=flat-square&amp;color=2ECC71&amp;label=Total%20Downloads" alt="Total Downloads" />
-  </a>
-  <a href="https://moglog-instructions.vercel.app">
-    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Ftshivaneshk%2Fmoglog-instructions.json&amp;label=Website%20Clicks&amp;color=007EC6&amp;style=flat-square" alt="Website Clicks" />
-  </a>
-  <img src="https://img.shields.io/badge/Platform-Android%208.0+-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Platform" />
-  <img src="https://img.shields.io/badge/Status-Stable-blue?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/Platform-Android%208.0+-3DDC84?style=flat-square&amp;logo=android&amp;logoColor=white" alt="Platform: Android" />&nbsp;
+  <img src="https://img.shields.io/badge/Status-Stable-blue?style=flat-square" alt="Status: Stable" />&nbsp;
+  <a href="https://github.com/tshivaneshk/Moglog-Releases/releases/latest"><img src="https://img.shields.io/github/v/release/tshivaneshk/Moglog-Releases?style=flat-square&amp;color=2ECC71&amp;label=Download%20APK" alt="Download APK" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/tshivaneshk/Moglog-Releases/releases"><img src="https://img.shields.io/github/downloads/tshivaneshk/Moglog-Releases/total?style=flat-square&amp;color=2ECC71&amp;label=Total%20Downloads" height="26" alt="Total Downloads" /></a>&nbsp;&nbsp;
+  <a href="https://moglog-instructions.vercel.app"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Ftshivaneshk%2Fmoglog-instructions.json&amp;label=Website%20Clicks&amp;color=007EC6&amp;style=flat-square" height="26" alt="Website Clicks" /></a>
 </p>
 
 ---
