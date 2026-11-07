@@ -15,8 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/tshivaneshk/Moglog-Releases/releases"><img src="https://img.shields.io/github/downloads/tshivaneshk/Moglog-Releases/total?style=flat-square&amp;color=2ECC71&amp;label=Total%20Downloads" height="26" alt="Total Downloads" /></a>&nbsp;&nbsp;
-  <a href="https://moglog-instructions.vercel.app"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Ftshivaneshk%2Fmoglog-instructions.json&amp;label=Website%20Clicks&amp;color=007EC6&amp;style=flat-square" height="26" alt="Website Clicks" /></a>
+  <a href="https://moglog-instructions.vercel.app/download"><img src="https://moglog-instructions.vercel.app/api/badge" height="28" alt="Total Downloads" /></a>
 </p>
 
 ---
